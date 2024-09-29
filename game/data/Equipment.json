@@ -1,0 +1,185 @@
+{
+  "tier_1" : [
+    {
+      "name" : "Sword",
+      "suffix" : "Rusted",
+      "str" : 1,
+      "dmg" : 5,
+      "dex" : 2,
+      "lck" : 0,
+      "current_durability" : 2,
+      "max_durability" : 2,
+      "color" : "White",
+      "skill" : "SwordSkill",
+      "category" : "Weapon"
+    },
+    {
+      "name" : "Hammer",
+      "suffix" : "Light",
+      "str" : 1,
+      "dmg" : 20,
+      "dex" : -5,
+      "lck" : 0,
+      "current_durability" : 2,
+      "max_durability" : 2,
+      "color" : "White",
+      "skill" : "HammerSkill",
+      "category" : "Weapon"
+    },
+    {
+      "name" : "Dagger",
+      "suffix" : "Rusted",
+      "str" : 1,
+      "dmg" : 1,
+      "dex" : 10,
+      "lck" : 0,
+      "current_durability" : 2,
+      "max_durability" : 2,
+      "color" : "White",
+      "skill" : "DaggerSkill",
+      "category" : "Weapon"
+    },
+    {
+      "name" : "PlateArmor",
+      "suffix" : "solid",
+      "str" : 1,
+      "dmg" : 0,
+      "dex" : -5,
+      "lck" : 0,
+      "current_durability" : 100,
+      "max_durability" : 100,
+      "color" : "White",
+      "category" : "Armor"
+    },
+    {
+      "name" : "Chainmail",
+      "suffix" : "balanced",
+      "str" : 1,
+      "dmg" : 0,
+      "dex" : 5,
+      "lck" : 0,
+      "current_durability" : 50,
+      "max_durability" : 50,
+      "color" : "White",
+      "category" : "Armor"
+    }
+  ],
+  "tier_2" : [
+    {
+      "name" : "Sword",
+      "suffix" : "Normal",
+      "str" : 1,
+      "dmg" : 10,
+      "dex" : 5,
+      "lck" : 0,
+      "current_durability" : 4,
+      "max_durability" : 4,
+      "color" : "Blue",
+      "skill" : "SwordSkill",
+      "category" : "Weapon"
+    },
+    {
+      "name" : "Hammer",
+      "suffix" : "Normal",
+      "str" : 1,
+      "dmg" : 30,
+      "dex" : -10,
+      "lck" : 0,
+      "current_durability" : 4,
+      "max_durability" : 4,
+      "color" : "Blue",
+      "skill" : "HammerSkill",
+      "category" : "Weapon"
+    },
+    {
+      "name" : "Dagger",
+      "suffix" : "Normal",
+      "str" : 1,
+      "dmg" : 2,
+      "dex" : 15,
+      "lck" : 0,
+      "current_durability" : 4,
+      "max_durability" : 4,
+      "color" : "Blue",
+      "skill" : "DaggerSkill",
+      "category" : "Weapon"
+    },
+    {
+      "name" : "WingShoes",
+      "suffix" : "nimble",
+      "str" : 1,
+      "dmg" : 0,
+      "dex" : 15,
+      "lck" : 0,
+      "current_durability" : 20,
+      "max_durability" : 20,
+      "color" : "White",
+      "category" : "Armor"
+    }
+  ],
+  "tier_3" : [
+    {
+      "name" : "Sword",
+      "suffix" : "Sharp",
+      "str" : 1,
+      "dmg" : 15,
+      "dex" : 10,
+      "lck" : 0,
+      "current_durability" : 6,
+      "max_durability" : 6,
+      "color" : "Purple",
+      "skill" : "SwordSkill",
+      "category" : "Weapon"
+    },
+    {
+      "name" : "Hammer",
+      "suffix" : "Heavy",
+      "str" : 1,
+      "dmg" : 40,
+      "dex" : -15,
+      "lck" : 0,
+      "current_durability" : 6,
+      "max_durability" : 6,
+      "color" : "Purple",
+      "skill" : "HammerSkill",
+      "category" : "Weapon"
+    },
+    {
+      "name" : "Dagger",
+      "suffix" : "Sharp",
+      "str" : 1,
+      "dmg" : 3,
+      "dex" : 20,
+      "lck" : 0,
+      "current_durability" : 6,
+      "max_durability" : 6,
+      "color" : "Purple",
+      "skill" : "DaggerSkill",
+      "category" : "Weapon"
+    },
+    {
+      "name" : "Berserk",
+      "suffix" : "self-destructive",
+      "str" : 2,
+      "dmg" : 0,
+      "dex" : 0,
+      "lck" : 0,
+      "current_durability" : 150,
+      "max_durability" : 150,
+      "color" : "White",
+      "category" : "Armor"
+    },
+    {
+      "name" : "MagicRobe",
+      "suffix" : "lucky",
+      "str" : 1,
+      "dmg" : 0,
+      "dex" : 0,
+      "lck" : 10,
+      "current_durability" : 20,
+      "max_durability" : 777,
+      "color" : "White",
+      "category" : "Armor"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+Index,Type,Name_KR,Suffix_Name_KR,Name_EN,Suffix_Name_EN,Grade,Tier,HP_Max,DMG,Stat_STR,Stat_DEX,Stat_LCK,Rew_EXP,Floor_Num,Type_Color,Abnormal_Condition_Status_IDX
+2001,Animal,토끼,없음,RABBIT,None,Common,1,10,1,1,1,0,10,1 ~ 20,White,8001
+2002,Animal,거미,없음,SPIDER,None,Common,1,10,5,2,1,0,10,1 ~ 20,White,8001
+2003,Animal,개구리,없음,FROG,None,Common,1,10,2,2,1,0,10,1 ~ 20,White,8001
+2004,Animal,두꺼비,없음,TOAD,None,Common,1,20,2,2,1,0,10,1 ~ 20,White,8001
+2005,Animal,뱀,없음,SNAKE,None,Common,1,15,3,3,1,0,10,1 ~ 20,White,8001
+2006,Animal,도마뱀,없음,LIZARD,None,Common,1,20,3,3,1,0,10,1 ~ 20,White,8001
+2007,Animal,너구리,없음,RACCOON,None,Common,1,20,4,3,5,0,10,1 ~ 20,White,8001
+2008,Animal,여우,없음,FOX,None,Common,1,15,4,3,10,0,10,1 ~ 20,White,8001
+2009,Animal,늑대,없음,WOLF,None,Common,1,25,5,4,5,0,10,1 ~ 20,White,8001
+2010,Animal,곰,없음,BEAR,None,Common,1,30,5,4,5,0,10,1 ~ 20,White,8001
+2011,Montser,버섯,없음,MUSHROOM,None,Common,1,10,2,0,1,1,20,21 ~ 40,White,8001
+2012,Montser,슬라임,없음,SLIME,None,Common,1,10,3,1,1,1,20,21 ~ 40,White,8001
+2013,Montser,소형 개미,없음,ANT,SMALL,Common,1,15,4,1,2,1,20,21 ~ 40,White,8001
+2014,Montser,꼬마 나무,없음,TREE,LITTLE,Common,1,20,4,3,1,1,20,21 ~ 40,White,8001
+2015,Montser,래트,없음,RAT,None,Common,1,15,5,4,6,1,20,21 ~ 40,White,8001
+2016,Montser,보어,없음,BOAR,None,Common,1,30,6,6,2,1,20,21 ~ 40,White,8001
+2017,Montser,자칼,없음,JACKAL,None,Common,1,35,8,8,5,1,20,21 ~ 40,White,8001
+2018,Montser,라이칸,없음,LYCAN,None,Common,1,40,10,10,5,1,20,21 ~ 40,White,8001
+2019,Montser,하운드,없음,HOUND,None,Common,1,40,10,10,5,1,20,21 ~ 40,White,8001
+2020,Montser,가고일,없음,GARGOYLE,None,Common,1,45,12,10,5,1,20,21 ~ 40,White,8001
+2021,Human_Form,고블린,없음,GOBLIN,None,Common,1,20,10,4,2,2,30,41 ~ 60,White,8001
+2022,Human_Form,코볼트,없음,KOBOLD,None,Common,1,25,12,4,2,2,30,41 ~ 60,White,8001
+2023,Human_Form,오크,없음,ORC,None,Common,1,40,16,10,1,2,30,41 ~ 60,White,8001
+2024,Human_Form,오우거,없음,OGRE,None,Common,1,50,16,14,1,2,30,41 ~ 60,White,8001
+2025,Human_Form,트롤,없음,TROLL,None,Common,1,60,20,20,1,2,30,41 ~ 60,White,8001
+2026,Human_Form,하피,없음,HARPY,None,Common,1,30,10,4,4,2,30,41 ~ 60,White,8001
+2027,Human_Form,리자드맨,없음,LIZARD MAN,None,Common,1,35,12,8,5,2,30,41 ~ 60,White,8001
+2028,Human_Form,샌드맨,없음,SAND MAN,None,Common,1,30,12,8,3,2,30,41 ~ 60,White,8001
+2029,Human_Form,골렘,없음,GOLEM,None,Common,1,60,16,14,1,2,30,41 ~ 60,White,8001
+2030,NPC_Enemy,강도,없음,ROBBERY,None,Common,1,20,10,6,5,2,30,41 ~ 60,White,8001
+2031,Undead,좀비,없음,ZOMBIE,None,Common,1,30,10,2,1,3,40,61 ~ 80,White,8001
+2032,Undead,스켈레톤,없음,SKELETON,None,Common,1,35,12,2,1,3,40,61 ~ 80,White,8001
+2033,Undead,머미,없음,MUMMY,None,Common,1,35,14,3,1,3,40,61 ~ 80,White,8001
+2034,Undead,구울,없음,GHOUL,None,Common,1,30,12,2,1,3,40,61 ~ 80,White,8001
+2035,Undead,가스트,없음,GHAST,None,Common,1,30,12,1,5,3,40,61 ~ 80,White,8001
+2036,Undead,밴시,없음,BANSHEE,None,Common,1,40,14,1,10,3,40,61 ~ 80,White,8001
+2037,Undead,스펙터,없음,SPECTER,None,Common,1,35,18,1,10,3,40,61 ~ 80,White,8001
+2038,Undead,라바,없음,LARVA,None,Common,1,45,12,1,2,3,40,61 ~ 80,White,8001
+2039,Undead,펌프킨,없음,PUMPKIN,None,Common,1,40,12,1,2,3,40,61 ~ 80,White,8001
+2040,Undead,저그,없음,ZERG,None,Common,1,40,14,4,2,3,40,61 ~ 80,White,8001
+2041,Mythical_Class,하수인,없음,SERVANT,None,Common,1,20,10,6,5,4,50,81 ~ 100,White,8003
+2042,Mythical_Class,님프,없음,NYMPH,None,Common,1,20,10,4,5,4,50,81 ~ 100,White,8001
+2043,Mythical_Class,에서슬론,없음,ELLYLLON,None,Common,1,30,15,3,10,4,50,81 ~ 100,White,8001
+2044,Mythical_Class,가루다,없음,GARUDA,None,Common,1,40,20,10,14,4,50,81 ~ 100,White,8003
+2045,Mythical_Class,라미아,없음,LAMIA,None,Common,1,40,20,12,10,4,50,81 ~ 100,White,8002
+2046,Mythical_Class,페가수스,없음,PEGASUS,None,Common,1,50,30,14,14,4,50,81 ~ 100,White,8004
+2047,Mythical_Class,유니콘,없음,UNICORN,None,Common,1,50,30,14,14,4,50,81 ~ 100,White,8020
+2048,Mythical_Class,켄타우로스,없음,CENTAURUS,None,Common,1,60,35,20,12,4,50,81 ~ 100,White,8003
+2049,Mythical_Class,치천사,없음,SERAPHIM,None,Common,1,80,40,16,16,4,50,81 ~ 100,White,8005
+2050,Mythical_Class,지천사,없음,CHERUBIM,None,Common,1,80,40,16,16,4,50,81 ~ 100,White,8005
+2051,Mimic,미믹,없음,Mimic,None,Common,1,1,10,0,0,0,0,ALL_Floor,White,8020

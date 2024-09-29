@@ -1,0 +1,26 @@
+Index,Type,Name_KR,Suffix_Name_KR,Name_EN,Suffix_Name_EN,Grade,Tier,HP_Max,DMG,Stat_STR,Stat_DEX,Stat_LCK,Rew_EXP,Floor_Num,Type_Color,Abnormal_Condition_Status_IDX
+7001,Animal,로커스트,없음,LOCUST,None,Boss,6,40,10,5,10,1,60,20,Red,8037
+7002,Montser,베히모스,(왼쪽 뿔),BEHEMOTH,(LEFT HORN),Boss,6,80,30,1,1,5,70,40,Red,8014
+7003,Montser,베히모스,(본체),BEHEMOTH,(BODY),Boss,6,160,60,50,10,5,70,40,Red,8011
+7004,Montser,베히모스,(오늘쪽 뿔),BEHEMOTH,(RIGHT HORN),Boss,6,80,30,1,1,5,70,40,Red,8015
+7005,Human_Form,데우스 엑스 마키나,없음,DEUS EX MACHINA(D.E.M),None,Boss,6,10,10,10,10,10,80,60,Red,8038
+7006,Undead,언데드 드래곤,(본체),UNDEAD DRAGON,(BODY),Boss,6,100,10,10,1,1,90,80,Red,8001
+7007,Undead,언데드 드래곤,(머리),UNDEAD DRAGON,(HADE),Boss,6,40,50,20,5,1,90,80,Red,8018
+7008,Undead,언데드 드래곤,(찢어진 왼쪽 날개),UNDEAD DRAGON,(TORN LEFT WING),Boss,6,60,35,15,10,1,90,80,Red,8016
+7009,Undead,언데드 드래곤,(찢어진 오른쪽 날개),UNDEAD DRAGON,(TORN RIGHT WING),Boss,6,60,35,15,10,1,90,80,Red,8016
+7010,Undead,언데드 드래곤,(꼬리),UNDEAD DRAGON,(TAIL),Boss,6,60,40,20,10,1,90,80,Red,8022
+7011,Undead,언데드 드래곤,(코어),UNDEAD DRAGON,(CORE),Boss,6,50,10,1,1,1,90,80,Red,8001
+7012,Undead,언데드 드래곤,(살점),UNDEAD DRAGON,(FLESH),Boss,6,30,0,0,0,0,90,80,Red,8001
+7013,Undead,언데드 드래곤,(헤츨링),UNDEAD DRAGON,(HATCHLING),Boss,6,80,50,25,10,1,90,80,Red,8020
+7014,Mythical_Class,히드라,(본체),HYDRA,(BODY),Boss,6,200,10,10,10,1,100,95,Red,8011
+7015,Mythical_Class,히드라,(1번 머리),HYDRA,(HEAD NUMBER 1),Boss,6,100,50,20,10,1,100,95,Red,8014
+7016,Mythical_Class,히드라,(2번 머리),HYDRA,(HEAD NUMBER 2),Boss,6,100,50,20,10,1,100,95,Red,8015
+7017,Mythical_Class,히드라,(3번 머리),HYDRA,(HEAD NUMBER 3),Boss,6,100,50,20,10,1,100,95,Red,8016
+7018,Mythical_Class,히드라,(4번 머리),HYDRA,(HEAD NUMBER 4),Boss,6,100,50,20,10,1,100,95,Red,8017
+7019,Mythical_Class,히드라,(5번 머리),HYDRA,(HEAD NUMBER 5),Boss,6,100,50,20,10,1,100,95,Red,8018
+7020,Mythical_Class,히드라,(6번 머리),HYDRA,(HEAD NUMBER 6),Boss,6,100,50,20,10,1,100,95,Red,8029
+7021,Mythical_Class,고룡,(육체),ANCIENT DRAGON,(BODY),Boss,6,500,70,30,20,10,100,99,Red,8039
+7022,Mythical_Class,고룡,(영혼),ANCIENT DRAGON,(SOUL),Boss,6,500,0,0,0,0,100,99,Red,8040
+7023,Mythical_Class,신,없음,GOD,None,Boss,6,1,1,1,1,1,100,100,Red,8033
+,,,,,,,,,,,,,,,,
+7024,Mimic,미믹,킹,Mimic,KING,Boss,6,1,10,0,0,0,0,90,Red,8020

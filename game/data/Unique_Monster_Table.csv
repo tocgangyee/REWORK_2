@@ -1,0 +1,68 @@
+Index,Type,Name_KR,Suffix_Name_KR,Name_EN,Suffix_Name_EN,Grade,Tier,HP_Max,DMG,Stat_STR,Stat_DEX,Stat_LCK,Rew_EXP,Floor_Num,Type_Color,Abnormal_Condition_Status_IDX
+6001,Animal,요르문간드,(머리),JORMUNGAND,(HEAD),Unique,5,45,16,12,4,4,50,1 ~ 20,Yellow,8007
+6002,Animal,요르문간드,(몸통 1),JORMUNGAND,(BODY1),Unique,5,55,12,10,2,4,50,1 ~ 20,Yellow,8007
+6003,Animal,요르문간드,(몸통 2),JORMUNGAND,(BODY2),Unique,5,55,12,10,2,4,50,1 ~ 20,Yellow,8007
+6004,Animal,요르문간드,(몸통 3),JORMUNGAND,(BODY3),Unique,5,55,12,10,2,4,50,1 ~ 20,Yellow,8007
+6005,Animal,요르문간드,(꼬리),JORMUNGAND,(TAIL),Unique,5,45,16,14,4,4,50,1 ~ 20,Yellow,8007
+6006,Animal,구미호,(본체),FOX,(BODY),Unique,5,80,20,12,24,4,50,1 ~ 20,Yellow,8001
+6007,Animal,구미호,(제 1꼬리),FOX,(1st TAIL),Unique,5,40,16,1,10,4,50,1 ~ 20,Yellow,8027
+6008,Animal,구미호,(제 2꼬리),FOX,(2st TAIL),Unique,5,40,16,1,10,4,50,1 ~ 20,Yellow,8028
+6009,Animal,구미호,(제 3꼬리),FOX,(3st TAIL),Unique,5,40,16,1,10,4,50,1 ~ 20,Yellow,8029
+6010,Animal,구미호,(제 4꼬리),FOX,(4st TAIL),Unique,5,40,16,1,10,4,50,1 ~ 20,Yellow,8035
+6011,Animal,구미호,(제 5꼬리),FOX,(5st TAIL),Unique,5,40,16,1,10,4,50,1 ~ 20,Yellow,8005
+6012,Animal,구미호,(제 6꼬리),FOX,(6st TAIL),Unique,5,40,16,1,10,4,50,1 ~ 20,Yellow,8018
+6013,Animal,구미호,(제 7꼬리),FOX,(7st TAIL),Unique,5,40,16,1,10,4,50,1 ~ 20,Yellow,8002
+6014,Animal,구미호,(제 8꼬리),FOX,(8st TAIL),Unique,5,40,16,1,10,4,50,1 ~ 20,Yellow,8003
+6015,Animal,구미호,(제 9꼬리),FOX,(9st TAIL),Unique,5,40,16,1,10,4,50,1 ~ 20,Yellow,8004
+6016,Montser,추파카브라,(동물 폼),CHUPACABRA,(ANIMAL FORM),Unique,5,60,20,6,10,5,60,21 ~ 40,Yellow,8012
+6017,Montser,추파카브라,(휴먼 폼),CHUPACABRA,(HUMAN FORM),Unique,5,40,15,5,8,5,60,21 ~ 40,Yellow,8034
+6018,Montser,추파카브라,(박쥐 폼),CHUPACABRA,(BAT FORM),Unique,5,40,10,4,12,5,60,21 ~ 40,Yellow,8030
+6019,Montser,추파카브라,(파충류 폼),CHUPACABRA,(REPTILE FORM),Unique,5,70,20,8,10,5,60,21 ~ 40,Yellow,8023
+6020,Montser,히포그리프,(왼쪽 날개),HIPPOGRIFF,(LEFT WING),Unique,5,60,20,10,20,5,60,21 ~ 40,Yellow,8016
+6021,Montser,히포그리프,(몸통),HIPPOGRIFF,(BODY),Unique,5,120,45,25,15,5,60,21 ~ 40,Yellow,8004
+6022,Montser,히포그리프,(오른쪽 날개),HIPPOGRIFF,(RIGHT WING),Unique,5,60,20,10,20,5,60,21 ~ 40,Yellow,8016
+6023,Montser,히포그리프,(꼬리 날개),HIPPOGRIFF,(TAIL WING),Unique,5,40,10,8,10,5,60,21 ~ 40,Yellow,8016
+6024,Human_Form,전차 고블린,(본체),CHARIOT GOBLIN,(BODY),Unique,5,100,60,18,20,6,70,41 ~ 60,Yellow,8023
+6025,Human_Form,전차 고블린,(왼쪽 바퀴),CHARIOT GOBLIN,(LEFT WHEEL),Unique,5,40,20,4,10,6,70,41 ~ 60,Yellow,8022
+6026,Human_Form,전차 고블린,(오른쪽 바퀴),CHARIOT GOBLIN,(RIGHT WHEEL),Unique,5,40,20,4,10,6,70,41 ~ 60,Yellow,8026
+6027,Human_Form,전차 고블린,(노예 1),CHARIOT GOBLIN,(SLAVE1),Unique,5,50,15,16,12,6,70,41 ~ 60,Yellow,8020
+6028,Human_Form,전차 고블린,(노예 2),CHARIOT GOBLIN,(SLAVE2),Unique,5,50,15,16,12,6,70,41 ~ 60,Yellow,8020
+6029,Human_Form,전차 고블린,(노예 3),CHARIOT GOBLIN,(SLAVE3),Unique,5,50,15,16,12,6,70,41 ~ 60,Yellow,8020
+6030,Human_Form,전차 고블린,(노예 4),CHARIOT GOBLIN,(SLAVE4),Unique,5,50,15,16,12,6,70,41 ~ 60,Yellow,8020
+6031,Human_Form,기간토마키아,(머리),GIGANTOMACHIA,(HEAD),Unique,5,100,20,25,1,6,70,41 ~ 60,Yellow,8007
+6032,Human_Form,기간토마키아,(몸통),GIGANTOMACHIA,(BODY),Unique,5,200,30,10,1,6,70,41 ~ 60,Yellow,8011
+6033,Human_Form,기간토마키아,(왼팔),GIGANTOMACHIA,(LEFT HAND),Unique,5,80,40,20,1,6,70,41 ~ 60,Yellow,8010
+6034,Human_Form,기간토마키아,(오른팔),GIGANTOMACHIA,(RIGHT HAND),Unique,5,80,40,20,1,6,70,41 ~ 60,Yellow,8010
+6035,Human_Form,기간토마키아,(왼 발),GIGANTOMACHIA,(LEFT FOOT),Unique,5,80,40,20,1,6,70,41 ~ 60,Yellow,8008
+6036,Human_Form,기간토마키아,(오른 발),GIGANTOMACHIA,(RIGHT FOOT),Unique,5,80,40,20,1,6,70,41 ~ 60,Yellow,8008
+6037,Undead,데스나이트,(본체),DEATH KNIGHT,(BODY),Unique,5,160,70,30,10,7,80,61 ~ 80,Yellow,8032
+6038,Undead,데스나이트,(말),DEATH KNIGHT,(HORSE),Unique,5,140,30,30,30,7,80,61 ~ 80,Yellow,8012
+6039,Undead,용아병,(투구),SPARTOI,(PITCHING),Unique,5,40,10,5,4,7,80,61 ~ 80,Yellow,8007
+6040,Undead,용아병,(갑주),SPARTOI,(ARMOR),Unique,5,100,20,10,4,7,80,61 ~ 80,Yellow,8011
+6041,Undead,용아병,(왼손 건틀릿),SPARTOI,(LEFT GAUNTLET),Unique,5,60,30,20,4,7,80,61 ~ 80,Yellow,8014
+6042,Undead,용아병,(오른손 건틀릿),SPARTOI,(RIGHT GAUNTLET),Unique,5,60,30,20,4,7,80,61 ~ 80,Yellow,8014
+6043,Undead,용아병,(왼쪽 신발),SPARTOI,(LEFT GREAVE),Unique,5,60,30,20,4,7,80,61 ~ 80,Yellow,8020
+6044,Undead,용아병,(오른쪽 신발),SPARTOI,(RIGHT GREAVE),Unique,5,60,30,20,4,7,80,61 ~ 80,Yellow,8020
+6045,Undead,리치(SET 1),없음,LICH,None,Unique,5,80,20,1,24,7,80,61 ~ 80,Yellow,8031
+6046,Undead,하수인(SET 1),(리치의),SERVANT,(LICH's),Unique,5,50,25,5,10,7,80,61 ~ 80,Yellow,8026
+6047,Undead,뱀파이어(SET 2),(시조),VAMPIRE,PROGENITOR,Unique,5,160,55,15,30,7,80,61 ~ 80,Yellow,8031
+6048,Undead,뱀파이어(SET 2),(귀족),VAMPIRE,NOBLE,Unique,5,120,40,14,16,7,80,61 ~ 80,Yellow,8030
+6049,Mythical_Class,후긴,(왼쪽 날개),HUGIN,(LEFT WING),Unique,5,50,30,15,20,8,90,81 ~ 100,Yellow,8016
+6050,Mythical_Class,후긴,(몸통),HUGIN,(BODY),Unique,5,100,20,10,18,8,90,81 ~ 100,Yellow,8001
+6051,Mythical_Class,후긴,(오른쪽 날개),HUGIN,(RIGHT WING),Unique,5,50,30,15,20,8,90,81 ~ 100,Yellow,8016
+6052,Mythical_Class,무닌,(왼쪽 날개),MUNIN,(LEFT WING),Unique,5,50,30,15,20,8,90,81 ~ 100,Yellow,8017
+6053,Mythical_Class,무닌,(몸통),MUNIN,(BODY),Unique,5,100,20,10,18,8,90,81 ~ 100,Yellow,8001
+6054,Mythical_Class,무닌,(오른쪽 날개),MUNIN,(RIGHT WING),Unique,5,50,30,15,20,8,90,81 ~ 100,Yellow,8017
+6055,Mythical_Class,레드 드래곤,(머리),RED DRAGON,(HEAD),Unique,5,60,70,22,5,10,100,81 ~ 100,Yellow,8014
+6056,Mythical_Class,레드 드래곤,(몸통),RED DRAGON,(BODY),Unique,5,200,10,10,1,10,100,81 ~ 100,Yellow,8011
+6057,Mythical_Class,레드 드래곤,(코어),RED DRAGON,(CORE),Unique,5,100,10,1,1,10,100,81 ~ 100,Yellow,8029
+6058,Mythical_Class,레드 드래곤,(왼쪽 날개),RED DRAGON,(LEFT WING),Unique,5,80,45,20,20,10,100,81 ~ 100,Yellow,8016
+6059,Mythical_Class,레드 드래곤,(오른쪽 날개),RED DRAGON,(RIGHT WING),Unique,5,80,45,20,20,10,100,81 ~ 100,Yellow,8016
+6060,Mythical_Class,레드 드래곤,(꼬리),RED DRAGON,(TAIL),Unique,5,60,60,25,20,10,100,81 ~ 100,Yellow,8010
+6061,Mythical_Class,대천사,(몸통),ARCHANGEL,(BODY),Unique,5,200,20,10,10,20,100,81 ~ 100,Yellow,8013
+6062,Mythical_Class,대천사,(제 1날개),ARCHANGEL,(1st WING),Unique,5,100,50,20,25,20,100,81 ~ 100,Yellow,8013
+6063,Mythical_Class,대천사,(제 2날개),ARCHANGEL,(2st WING),Unique,5,100,50,20,25,20,100,81 ~ 100,Yellow,8013
+6064,Mythical_Class,대천사,(제 3날개),ARCHANGEL,(3st WING),Unique,5,100,50,20,25,20,100,81 ~ 100,Yellow,8013
+6065,Mythical_Class,대천사,(제 4날개),ARCHANGEL,(4st WING),Unique,5,100,50,20,25,20,100,81 ~ 100,Yellow,8013
+6066,Mythical_Class,대천사,(제 5날개),ARCHANGEL,(5st WING),Unique,5,100,50,20,25,20,100,81 ~ 100,Yellow,8013
+6067,Mythical_Class,대천사,(제 6날개),ARCHANGEL,(6st WING),Unique,5,100,50,20,25,20,100,81 ~ 100,Yellow,8013

@@ -1,0 +1,47 @@
+{
+        "Huginn" : [
+                {
+                        "name" : "Huginn",
+                        "prefix" : "Left wing",
+                        "suffix" : "",
+                        "max_hp" : 90,
+                        "current_hp" : 90,
+                        "str" : 6,
+                        "dmg" : 10,
+                        "dex" : 40,
+                        "lck" : 0,
+                        "inven" : [],
+                        "color" : "Purple",
+                        "exp" : 30
+
+                },
+                {
+                        "name" : "Huginn",
+                        "prefix" : "Body",
+                        "suffix" : "",
+                        "max_hp" : 200,
+                        "current_hp" : 200,
+                        "str" : 6,
+                        "dmg" : 4,
+                        "dex" : 1,
+                        "lck" : 0,
+                        "inven" : [],
+                        "color" : "Purple",
+                        "exp" : 40
+                },
+                {
+                        "name" : "Huginn",
+                        "prefix" : "Right wing",
+                        "suffix" : "",
+                        "max_hp" : 90,
+                        "current_hp" : 90,
+                        "str" : 6,
+                        "dmg" : 10,
+                        "dex" : 40,
+                        "lck" : 0,
+                        "inven" : [],
+                        "color" : "Purple",
+                        "exp" : 30
+                }
+        ]
+}

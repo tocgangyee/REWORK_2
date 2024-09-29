@@ -1,0 +1,31 @@
+Index,Type,Name_KR,Suffix_Name_KR,Name_EN,Suffix_Name_EN,Grade,Tier,HP_Max,DMG,Stat_STR,Stat_DEX,Stat_LCK,Rew_EXP,Floor_Num,Type_Color,Abnormal_Condition_Status_IDX
+4001,Animal,도롱뇽,없음,SALAMANDER,None,Rare,3,35,10,6,8,2,30,1 ~ 20,Blue,8020
+4002,Animal,쌍두사,없음,DOUBLE HEAD SERPENT,None,Rare,3,40,12,8,4,2,30,1 ~ 20,Blue,8018
+4003,Animal,사자,없음,LION,None,Rare,3,60,22,14,6,2,30,1 ~ 20,Blue,8006
+4004,Animal,호랑이,없음,TIGER,None,Rare,3,55,22,12,10,2,30,1 ~ 20,Blue,8004
+4005,Animal,삼미호(3미),삼미호(3미),FOX,(THREE TAILED),Rare,3,45,16,10,20,2,30,1 ~ 20,Blue,8004
+4006,Animal,서리한 베어,서리한,BEAR,(FROSTY),Rare,3,80,24,16,10,2,30,1 ~ 20,Blue,8015
+4007,Montser,골드 슬라임,골드,SLIME,(GOLD),Rare,3,20,4,2,2,3,40,21 ~ 40,Blue,8024
+4008,Montser,램트 웜,없음,LAMBTON WORM,None,Rare,3,35,8,6,8,3,40,21 ~ 40,Blue,8017
+4009,Montser,거대 개미,없음,ANT,(GIANT),Rare,3,45,10,4,6,3,40,21 ~ 40,Blue,8007
+4010,Montser,킹하운드,없음,HOUND,(KING),Rare,3,100,35,30,15,3,40,21 ~ 40,Blue,8006
+4011,Montser,비홀더,없음,BEHOLDER,None,Rare,3,70,16,10,8,3,40,21 ~ 40,Blue,8032
+4012,Montser,기사 그렘린,기사,GREMLIN,(KNIGHT),Rare,3,120,40,30,30,3,40,21 ~ 40,Blue,8022
+4013,Human_Form,홉고블린,없음,HOBGOBLIN,None,Rare,3,60,30,10,4,4,50,41 ~ 60,Blue,8001
+4014,Human_Form,홉코볼트,없음,HOBKOBOLD,None,Rare,3,75,36,10,4,4,50,41 ~ 60,Blue,8001
+4015,Human_Form,호문클루스,없음,HOMUNCULUS,None,Rare,3,45,20,4,6,4,50,41 ~ 60,Blue,8025
+4016,Human_Form,하이오크,없음,HIGH ORC,None,Rare,3,120,50,35,1,4,50,41 ~ 60,Blue,8001
+4017,Human_Form,도플갱어,없음,DOPPELGANGER,None,Rare,3,45,25,6,12,4,50,41 ~ 60,Blue,8025
+4018,Human_Form,미노타우르스,없음,MINOTAUROS,None,Rare,3,120,60,35,1,4,50,41 ~ 60,Blue,8001
+4019,Undead,언데드 하수인(SET),언데드,SERVANT,(UNDEAD),Rare,3,40,20,4,6,5,60,61 ~ 80,Blue,8007
+4020,Undead,마녀,없음,WITCH,None,Rare,3,30,25,1,16,5,60,61 ~ 80,Blue,8001
+4021,Undead,본 나이트,없음,BONE KNIGHT,None,Rare,3,100,24,10,5,5,60,61 ~ 80,Blue,8032
+4022,Undead,중급 리치(SET),중급,RICH,(INTERMEDIATE),Rare,3,60,10,2,12,15,60,61 ~ 80,Blue,8031
+4023,Undead,섀도우,없음,SHADOW,None,Rare,3,70,34,1,22,5,60,61 ~ 80,Blue,8032
+4024,Undead,뱀파이어 로드,로드,VAMPIRE,(LORD),Rare,3,120,40,10,12,5,60,61 ~ 80,Blue,8030
+4025,Mythical_Class,오르토스,없음,ORTHUS,None,Rare,3,70,35,14,5,6,70,81 ~ 100,Blue,8001
+4026,Mythical_Class,스핑크스,없음,SPHINX,None,Rare,3,55,20,10,10,6,70,81 ~ 100,Blue,8033
+4027,Mythical_Class,역천사,없음,VIRTUES,None,Rare,3,100,55,35,14,12,70,81 ~ 100,Blue,8009
+4028,Mythical_Class,서큐버스,없음,SUCCUBUS,None,Rare,3,55,25,10,10,6,70,81 ~ 100,Blue,8027
+4029,Mythical_Class,인큐버스,없음,INCUBUS,None,Rare,3,65,30,12,12,6,70,81 ~ 100,Blue,8027
+4030,Mythical_Class,서번트,없음,SERPENT,None,Rare,3,180,55,35,30,6,70,81 ~ 100,Blue,8001

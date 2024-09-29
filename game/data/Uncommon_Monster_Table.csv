@@ -1,0 +1,41 @@
+Index,Type,Name_KR,Suffix_Name_KR,Name_EN,Suffix_Name_EN,Grade,Tier,HP_Max,DMG,Stat_STR,Stat_DEX,Stat_LCK,Rew_EXP,Floor_Num,Type_Color,Abnormal_Condition_Status_IDX
+3001,Animal,엄니 토끼,없음,RABBIT,(MOLAR),Uncommon,2,20,4,2,2,1,20,1 ~ 20,Green,8022
+3002,Animal,독거미,없음,TARANTULA,None,Uncommon,2,20,10,4,2,1,20,1 ~ 20,Green,8018
+3003,Animal,노랑 개구리,없음,FROG,(YELLOW),Uncommon,2,20,4,4,2,1,20,1 ~ 20,Green,8023
+3004,Animal,맹독사,없음,SNAKE,(POISONOUS),Uncommon,2,30,6,6,2,1,20,1 ~ 20,Green,8018
+3005,Animal,아르마딜로,없음,ARMADILLO,None,Uncommon,2,50,4,4,4,2,20,1 ~ 20,Green,8007
+3006,Animal,긴 꼬리 여우,없음,FOX,(LONG TAIL),Uncommon,2,30,8,5,15,1,20,1 ~ 20,Green,8004
+3007,Animal,회색 늑대,없음,GRAY WOLF,None,Uncommon,2,50,10,8,10,1,20,1 ~ 20,Green,8006
+3008,Animal,불곰,없음,BROWN BEAR,None,Uncommon,2,60,12,8,10,1,20,1 ~ 20,Green,8006
+3009,Montser,레드 슬라임,레드,SLIME,(RED),Uncommon,2,10,2,1,1,2,30,21 ~ 40,Green,8014
+3010,Montser,로퍼,없음,ROPER,None,Uncommon,2,20,4,2,4,2,30,21 ~ 40,Green,8004
+3011,Montser,중형 개미,없음,ANT,(MEDIUM),Uncommon,2,30,8,2,4,2,30,21 ~ 40,Green,8003
+3012,Montser,파이어 보어,없음,FIRE BORE,None,Uncommon,2,60,12,12,4,2,30,21 ~ 40,Green,8014
+3013,Montser,어스 래트,없음,EARTH RAT,None,Uncommon,2,35,8,6,8,2,30,21 ~ 40,Green,8007
+3014,Montser,라이칸스로프,없음,LYCANTHROPE,None,Uncommon,2,80,20,20,10,2,30,21 ~ 40,Green,8006
+3015,Montser,핏빛 하운드,없음,HOUND,(BLOODY),Uncommon,2,80,20,20,10,2,30,21 ~ 40,Green,8022
+3016,Montser,그렘린,없음,GREMLIN,None,Uncommon,2,100,25,20,25,2,30,21 ~ 40,Green,8022
+3017,Human_Form,전사 고블린,없음,GOBLIN,(WARRIOR),Uncommon,2,40,20,6,4,3,40,41 ~ 60,Green,8001
+3018,Human_Form,마법사 고블린,없음,GOBLIN,(WIZARD),Uncommon,2,30,15,2,8,3,40,41 ~ 60,Green,8001
+3019,Human_Form,핏빛 코볼트,없음,KOBOLD,(BLOODY),Uncommon,2,50,24,8,4,3,40,41 ~ 60,Green,8022
+3020,Human_Form,전사 오크,없음,ORC,(WARRIOR),Uncommon,2,80,32,20,1,3,40,41 ~ 60,Green,8006
+3021,Human_Form,마법사 오크,없음,ORC,(WIZARD),Uncommon,2,50,12,6,8,3,40,41 ~ 60,Green,8001
+3022,Human_Form,망치 트롤,없음,TROLL,(HAMMER),Uncommon,2,120,40,30,1,3,40,41 ~ 60,Green,8006
+3023,Human_Form,노래하는 하피,없음,HARPY,(SINGING),Uncommon,2,45,25,6,6,3,40,41 ~ 60,Green,3035
+3024,Human_Form,메탈 골렘,없음,GOLEM,(METAL),Uncommon,2,140,35,30,1,3,40,41 ~ 60,Green,8007
+3025,Undead,부패한 좀비,없음,ZOMBIE,(ROTTEN),Uncommon,2,45,25,3,1,4,50,61 ~ 80,Green,8026
+3026,Undead,아처 스켈레톤,없음,SKELETON,(ARCHER),Uncommon,2,35,25,4,5,4,50,61 ~ 80,Green,8022
+3027,Undead,맨드레이크,없음,MANDRAKE,None,Uncommon,2,1,10,1,1,10,50,61 ~ 80,Green,8036
+3028,Undead,와이트,없음,WIGHT,None,Uncommon,2,70,36,1,20,4,50,61 ~ 80,Green,8021
+3029,Undead,잭 오 랜턴,없음,JACK O LANTERN,None,Uncommon,2,65,24,2,4,4,50,61 ~ 80,Green,8032
+3030,Undead,리빙 아머(SET),없음,LIVING ARMOR,None,Uncommon,2,100,24,10,5,4,50,61 ~ 80,Green,8007
+3031,Undead,하급 리치(SET),하급,LICH,(LESSER),Uncommon,2,40,10,2,10,10,50,61 ~ 80,Green,8031
+3032,Undead,뱀파이어,없음,VAMPIRE,None,Uncommon,2,85,35,6,8,4,50,61 ~ 80,Green,8030
+3033,Mythical_Class,키메라,없음,CHIMERA,None,Uncommon,2,35,20,12,7,5,60,81 ~ 100,Green,8026
+3034,Mythical_Class,코카트리스,없음,COCKATRICE,None,Uncommon,2,55,35,14,5,5,60,81 ~ 100,Green,8018
+3035,Mythical_Class,카르키노스,없음,KARKINOS,None,Uncommon,2,50,30,14,5,5,60,81 ~ 100,Green,8022
+3036,Mythical_Class,세이렌,없음,SIREN,None,Uncommon,2,45,25,10,10,5,60,81 ~ 100,Green,8035
+3037,Mythical_Class,고르곤,없음,GORGON,None,Uncommon,2,70,40,20,5,5,60,81 ~ 100,Green,8011
+3038,Mythical_Class,좌천사,없음,THRONES,None,Uncommon,2,80,45,25,12,10,60,81 ~ 100,Green,8009
+3039,Mythical_Class,나이트 셰이드,없음,NIGHT SHADE,None,Uncommon,2,80,40,15,20,5,60,81 ~ 100,Green,8032
+3040,Mythical_Class,와이번,없음,WYVERN,None,Uncommon,2,160,50,30,25,5,60,81 ~ 100,Green,8001

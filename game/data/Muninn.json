@@ -1,0 +1,47 @@
+{
+        "Muninn" : [
+                {
+                        "name" : "Muninn",
+                        "prefix" : "Left wing",
+                        "suffix" : "",
+                        "max_hp" : 160,
+                        "current_hp" : 160,
+                        "str" : 6,
+                        "dmg" : 5,
+                        "dex" : 1,
+                        "lck" : 0,
+                        "inven" : [],
+                        "color" : "Purple",
+                        "exp" : 30
+
+                },
+                {
+                        "name" : "Muninn",
+                        "prefix" : "Body",
+                        "suffix" : "",
+                        "max_hp" : 60,
+                        "current_hp" : 60,
+                        "str" : 6,
+                        "dmg" : 12,
+                        "dex" : 40,
+                        "lck" : 0,
+                        "inven" : [],
+                        "color" : "Purple",
+                        "exp" : 40
+                },
+                {
+                        "name" : "Muninn",
+                        "prefix" : "Right wing",
+                        "suffix" : "",
+                        "max_hp" : 160,
+                        "current_hp" : 160,
+                        "str" : 6,
+                        "dmg" : 5,
+                        "dex" : 1,
+                        "lck" : 0,
+                        "inven" : [],
+                        "color" : "Purple",
+                        "exp" : 30
+                }
+        ]
+}

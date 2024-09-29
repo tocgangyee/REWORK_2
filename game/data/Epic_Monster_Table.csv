@@ -1,0 +1,21 @@
+Index,Type,Name_KR,Suffix_Name_KR,Name_EN,Suffix_Name_EN,Grade,Tier,HP_Max,DMG,Stat_STR,Stat_DEX,Stat_LCK,Rew_EXP,Floor_Num,Type_Color,Abnormal_Condition_Status_IDX
+5001,Animal,샐러맨더,없음,SALAMANDER,None,Epic,4,55,15,8,10,3,40,1 ~ 20,Purple,8014
+5002,Animal,아라크네,없음,ARACHNE,None,Epic,4,45,14,10,4,3,40,1 ~ 20,Purple,8020
+5003,Animal,여우,(다미호(5미)),FOX,(FIVE TAILED),Epic,4,60,18,10,20,3,40,1 ~ 20,Purple,8027
+5004,Animal,메듀사,없음,MEDUSA,None,Epic,4,80,20,14,16,3,40,1 ~ 20,Purple,8018
+5005,Montser,슬라임, (킹),SLIME,(KING),Epic,4,30,6,3,3,4,50,21 ~ 40,Purple,8034
+5006,Montser,샌드웜,(자이언트),SAND WORM,(GIANT),Epic,4,60,14,10,10,4,50,21 ~ 40,Purple,8011
+5007,Montser,그렘린,(기사단장),GREMLIN,(COMMANDER),Epic,4,140,50,35,30,4,50,21 ~ 40,Purple,8001
+5008,Montser,만티 코어,없음,MANTICORE,None,Epic,4,160,60,45,20,4,50,21 ~ 40,Purple,8010
+5009,Human_Form,고블린, (로드),GOBLIN,(LORD),Epic,4,80,40,14,4,5,60,41 ~ 60,Purple,8010
+5010,Human_Form,귀인,없음,NOBLEMAN,None,Epic,4,100,45,20,10,5,60,41 ~ 60,Purple,8006
+5011,Human_Form,사이클롭스,없음,CYCLOPS,None,Epic,4,180,70,50,1,5,60,41 ~ 60,Purple,8011
+5012,Human_Form,네피림,없음,NEPHILIM,None,Epic,4,85,35,12,6,5,60,41 ~ 60,Purple,8036
+5013,Undead,듀라한,없음,DULLAHAN,None,Epic,4,120,36,16,8,6,70,61 ~ 80,Purple,8032
+5014,Undead,리퍼,없음,LEAPER,None,Epic,4,110,24,6,20,6,70,61 ~ 80,Purple,8001
+5015,Undead,나이트메어,없음,NIGHT MARE,None,Epic,4,80,22,1,22,6,70,61 ~ 80,Purple,8036
+5016,Undead,뱀파이어,(퀸),VAMPIRE,(QUEEN),Epic,4,100,30,5,20,15,70,61 ~ 80,Purple,8030
+5017,Mythical_Class,그리폰,없음,GRIFFON,None,Epic,4,80,40,16,16,7,80,81 ~ 100,Purple,8001
+5018,Mythical_Class,권천사,없음,PRINCIPALITIES,None,Epic,4,120,65,40,16,14,80,81 ~ 100,Purple,8013
+5019,Mythical_Class,발로그,없음,BARLOG,None,Epic,4,90,55,20,18,7,80,81 ~ 100,Purple,8011
+5020,Mythical_Class,헤츨링,없음,HATCHLING,None,Epic,4,200,65,45,40,7,80,81 ~ 100,Purple,8001

@@ -1,0 +1,71 @@
+{
+  "tier_1": [
+    {
+      "name" : "Potion",
+      "suffix" : "Zero",
+      "effect" : 5,
+      "rare" : 10,
+      "color" : "White"
+    },
+    {
+      "name" : "Potion",
+      "suffix" : "Short",
+      "effect" : 10,
+      "rare" : 100,
+      "color" : "White"
+    },
+    {
+      "name" : "Potion",
+      "suffix" : "Tall",
+      "effect" : 15,
+      "rare" : 30,
+      "color" : "White"
+    }
+  ],
+  "tier_2": [
+    {
+      "name" : "Potion",
+      "suffix" : "Shot",
+      "effect" : 20,
+      "rare" : 100,
+      "color" : "Blue"
+    },
+    {
+      "name" : "Potion",
+      "suffix" : "Grande",
+      "effect" : 25,
+      "rare" : 100,
+      "color" : "Blue"
+    },
+    {
+      "name" : "Potion",
+      "suffix" : "Venti",
+      "effect" : 30,
+      "rare" : 20,
+      "color" : "Blue"
+    }
+  ],
+  "tier_3": [
+    {
+      "name" : "Potion",
+      "suffix" : "Trenta",
+      "effect" : 35,
+      "rare" : 200,
+      "color" : "Purple"
+    },
+    {
+      "name" : "Potion",
+      "suffix" : "Half Gallon",
+      "effect" : 40,
+      "rare" : 100,
+      "color" : "Purple"
+    },
+    {
+      "name" : "Potion",
+      "suffix" : "Gallon",
+      "effect" : 10000,
+      "rare" : 5,
+      "color" : "Purple"
+    }
+  ]
+}

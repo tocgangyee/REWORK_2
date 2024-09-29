@@ -1,0 +1,47 @@
+{
+  "max_hp" : 100,
+  "current_hp" : 100,
+  "str" : 2,
+  "dmg" : 10,
+  "dex" : 20,
+  "lck" : 1,
+  "inven" : {
+    "weapon": [
+      {
+        "name": "Bare Hand",
+        "suffix": "",
+        "str": 0,
+        "dmg": 0,
+        "dex": 0,
+        "lck": 0,
+        "current_durability": 0,
+        "max_durability": 0,
+        "color": "White",
+        "skill": "",
+        "category":"Weapon"
+      }
+    ],
+    "armor" : [
+      {
+        "name": "Tunic",
+        "suffix": "Basic Armor",
+        "str": 0,
+        "dmg": 0,
+        "dex": 0,
+        "lck": 0,
+        "current_durability": 0,
+        "max_durability": 0,
+        "color": "White",
+        "category": "Armor"
+      }
+    ]
+  },
+  "max_exp" : 10,
+  "current_exp" : 0,
+  "skillPoint" : 0,
+  "condition" : {
+    "Poisoned" : 0,
+    "Wounded" : 0,
+    "Rusted" : 0
+  }
+}
